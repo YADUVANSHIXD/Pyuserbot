@@ -1,5 +1,5 @@
 {
-    "name": "The HellBot",
+    "name": "𝐓𝐡𝐞 𝐘𝐚𝐝𝐮𝐯𝐚𝐧𝐬𝐡𝐢 𝐛𝐨𝐭",
     "description": "🚀 Telegram Bot on steroids! Packed with the latest commands, limitless features, etc. Unleash the ultimate power of customization and automation like never before!",
     "logo": "https://te.legra.ph/file/31c5a08f0941b8fbb3f66.png",
     "keywords": [
@@ -55,7 +55,7 @@
         },
         "DEPLOY_REPO": {
             "description": "Fillup the username/reponame of the deploy repo. Consider updating the default value with your own forked repo.",
-            "value": "The-HellBot/HellBot",
+            "value": "pradeepyadav9161/Pyuserbot",
             "required": false
         }
     },
